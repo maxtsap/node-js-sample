@@ -1,4 +1,4 @@
-v2.2
+v2.3
 
 # node-js-sample
 

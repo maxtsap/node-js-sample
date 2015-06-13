@@ -1,4 +1,4 @@
-v105
+v106
 
 # node-js-sample
 
